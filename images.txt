@@ -1,3 +1,2 @@
-alpine
-oliver006/redis_exporter:v1.57.0
-redis:6
+oldxu3957/jmx_prometheus:v0.20.0
+oldxu3957/javaapp:v1.0
