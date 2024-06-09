@@ -1,1 +1,1 @@
-tinpotnick/mysql_exporter
+tcnguyen/mysql_exporter
