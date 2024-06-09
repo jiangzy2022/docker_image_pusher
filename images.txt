@@ -1,2 +1,2 @@
-oldxu3957/jmx_prometheus:v0.20.0
-oldxu3957/javaapp:v1.0
+mysql:8.0.37
+mysql-exporter:0.14.0.2-amd64
