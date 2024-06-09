@@ -1,1 +1,1 @@
-dbscale/mysql-exporter:0.14.0.2-amd64
+superbxp/mysql-exporter:latest
