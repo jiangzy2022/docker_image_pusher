@@ -1,1 +1,1 @@
-superbxp/mysql-exporter:latest
+tinpotnick/mysql_exporter
