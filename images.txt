@@ -1,2 +1,1 @@
 mysql:8.0.37
-mysql-exporter:0.14.0.2-amd64
