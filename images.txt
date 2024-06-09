@@ -1,1 +1,1 @@
-tcnguyen/mysql_exporter
+mysql_exporter
