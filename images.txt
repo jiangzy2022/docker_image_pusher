@@ -1,1 +1,1 @@
-prom/mysqld-exporter
+gitlab/gitlab-ce:14.6.0-ce.0
