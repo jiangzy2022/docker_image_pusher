@@ -1,1 +1,1 @@
-jenkins/jenkins:2.387.3-lts
+jenkins/inbound-agent:4.11-1-jdk11
