@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.1.1
+sophos/nginx-vts-exporter:v0.10.3
