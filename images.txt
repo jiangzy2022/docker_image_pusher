@@ -1,2 +1,1 @@
-node:lts-alpine
-nginx:stable-alpine
+redis:7.2.0
