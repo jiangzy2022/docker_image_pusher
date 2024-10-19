@@ -1,1 +1,2 @@
-sophos/nginx-vts-exporter:v0.10.3
+maven:3.8.6-openjdk-8
+openjdk:8-jdk-alpine
