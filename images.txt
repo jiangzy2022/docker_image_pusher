@@ -1,1 +1,1 @@
-gaciaga/nginx-vts:latest
+sophos/nginx-vts-exporter:latest
