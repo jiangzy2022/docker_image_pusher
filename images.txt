@@ -1,1 +1,1 @@
-xcgd/nginx-vts:stable
+gaciaga/nginx-vts:latest
