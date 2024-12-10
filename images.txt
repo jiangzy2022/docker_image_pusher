@@ -1,1 +1,3 @@
-sophos/nginx-vts-exporter:latest
+elasticsearch/elasticsearch:8.13.0
+kibana/kibana:8.13.0
+beats/filebeat:8.13.0
