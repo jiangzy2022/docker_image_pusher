@@ -1,3 +1,1 @@
-elasticsearch/elasticsearch:8.13.0
-kibana/kibana:8.13.0
-beats/filebeat:8.13.0
+registry.k8s.io/ingress-nginx/controller:v1.11.4
