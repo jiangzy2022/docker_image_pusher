@@ -1,2 +1,1 @@
-sonarqube:9.9.8-community
-postgres:15
+sonarsource/sonar-scanner-cli:5.0
